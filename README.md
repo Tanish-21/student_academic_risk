@@ -42,8 +42,8 @@ academic-analyzer/
 │   ├── assignments.xlsx
 │   └── quizzes.xlsx
 │
-└── database/
-    └── students.db
+└── student_risk.db(it is automatically generated)
+    
 ```
 
 > The exact files and folders may vary depending on the project configuration.
@@ -52,7 +52,7 @@ academic-analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Tanish-21/student_academic_risk
 ```
 
 ### 2. Open the project folder
