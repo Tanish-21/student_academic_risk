@@ -1,0 +1,16 @@
+student_id,student_name,attendance,assignment_score,mid_score,assignment_percentage,mid_percentage,overall_score,risk_level,risk_reason
+266Q5A4401,TANISH,89,14,18,70.0,90.0,83.7,Low Risk,No major risk
+26B25A4401,KRUTHI,80,15,14,75.0,70.0,74.5,Low Risk,No major risk
+26B25A4402,VENKATA SAI,78,18,17,90.0,85.0,84.4,Low Risk,No major risk
+26B25A4403,SAI CHARAN,88,17,15,85.0,75.0,81.9,Low Risk,No major risk
+26B25A4404,SUBHAS,76,10,8,50.0,40.0,53.8,Medium Risk,Low Mid-term Score
+26B25A4405,VENKATESH,70,7,16,35.0,80.0,63.5,Medium Risk,"Low Attendance, Low Assignment Score"
+26B25A4406,AJAY,69,8,18,40.0,90.0,68.7,Low Risk,"Low Attendance, Low Assignment Score"
+26B25A4407,SHANKAR,39,10,10,50.0,50.0,46.7,High Risk,Low Attendance
+26B25A4408,SHANTHOSH,90,15,6,75.0,30.0,61.5,Medium Risk,Low Mid-term Score
+26B25A4409,PRAVEEN,34,20,7,100.0,35.0,54.2,Medium Risk,"Low Attendance, Low Mid-term Score"
+26B25A4410,CHANDU,84,18,12,90.0,60.0,76.2,Low Risk,No major risk
+26B25A4411,KRISHNA,87,15,19,75.0,95.0,86.6,Low Risk,No major risk
+26B25A4412,ADITHYA,92,16,20,80.0,100.0,91.6,Low Risk,No major risk
+26B25A4413,MOHAN,67,17,17,85.0,85.0,79.6,Low Risk,Low Attendance
+26B25A4414,NANI,89,0,0,0.0,0.0,26.7,High Risk,"Low Assignment Score, Low Mid-term Score"
