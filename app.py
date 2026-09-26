@@ -23,6 +23,13 @@ st.write(
     "and identifying students who may need support."
 )
 
+st.markdown("""
+### Risk Levels
+
+- 🔴 **High Risk** — Students requiring urgent academic attention
+- 🟡 **Medium Risk** — Students requiring regular monitoring
+- 🟢 **Low Risk** — Students showing satisfactory performance
+""")
 
 #process the data
 data = process_student_data()
