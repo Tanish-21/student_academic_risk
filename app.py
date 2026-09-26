@@ -6,14 +6,14 @@ from data_procesing import process_student_data
 
 
 
-
-
 # Page configuration
 st.set_page_config(
     page_title="Student Academic Risk",
     page_icon="🎓",
     layout="wide"
 )
+
+
 
 # Title
 st.title("🎓 Student Academic Risk Early Warning System")
@@ -264,6 +264,4 @@ ax.tick_params(axis="x", rotation=0, labelsize=9)
 ax.tick_params(axis="y", labelsize=9)
 
 st.pyplot(fig, width="content")    
-
-
 
